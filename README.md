@@ -1,10 +1,10 @@
 # ChemODE
-Official implementation for the paper "ChemODE: Robust Estimation of Multi-Scale Chemical Kinetics via Feature-Normalized Sparse Neural ODEs".
+Official implementation for the paper "ChemODE: A Physics-Informed Neural Surrogate for Robust Pharmacokinetics and Biochemical Dynamics".
 
 ## Usage
-1. Open the notebook `ChemODE_Final.ipynb` in Google Colab.
+1. Open the notebook `ChemODE_Full.ipynb` in Google Colab.
 2. Set Runtime to T4 GPU.
-3. Run all cells to reproduce Figures 1-4 and results from the manuscript.
+3. Run all cells to reproduce Figures 1-3 and results from the manuscript.
 
 ## Dependencies
 - torchdiffeq
